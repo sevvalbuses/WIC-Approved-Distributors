@@ -1,4 +1,4 @@
-# WIC-Approved-Distributors
+# State-Level WIC-Approved-Distributors
 
 1.	[Alabama](https://www.alabamapublichealth.gov/wic/assets/wholesalers.distibutors.manufacturers_authorize_sell_al4.pdf)
 2. 	[Alaska](https://health.alaska.gov/dpa/Documents/dpa/programs/Nutrition/WIC/Retailers/forms/InfantFormulaSupplierList.pdf)
